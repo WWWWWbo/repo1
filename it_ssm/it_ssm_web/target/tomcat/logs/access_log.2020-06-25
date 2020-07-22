@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [25/Jun/2020:14:03:20 +0800] "GET /it_ssm_web HTTP/1.1" 302 - http-bio-8888-exec-2 0
+0:0:0:0:0:0:0:1 - - [25/Jun/2020:14:03:21 +0800] "GET /it_ssm_web/ HTTP/1.1" 302 - http-bio-8888-exec-3 59
+0:0:0:0:0:0:0:1 - - [25/Jun/2020:14:03:21 +0800] "GET /it_ssm_web/login.jsp HTTP/1.1" 200 2606 http-bio-8888-exec-4 222
+0:0:0:0:0:0:0:1 - - [25/Jun/2020:14:03:21 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8888-exec-5 0
